@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div>
   <span align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kevin7gif&show_icons=true&theme=tokyonight" style="height: 230px;"/> 
-  <span align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" style="height: 230px;"/> </span>
+  <span align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin7gif" style="height: 230px;"/> </span>
 </div>
 
 
